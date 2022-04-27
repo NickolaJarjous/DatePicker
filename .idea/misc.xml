@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/gavar/StudioProjects/DatePicker/sample/src/main/res/layout/activity_main.xml" value="0.2463768115942029" />
+        <entry key="library/src/main/res/layout/picker_popup_layout.xml" value="0.3375" />
+        <entry key="sample/src/main/res/layout/activity_main.xml" value="0.3375" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

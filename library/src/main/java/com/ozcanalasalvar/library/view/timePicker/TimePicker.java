@@ -70,7 +70,7 @@ public class TimePicker extends LinearLayout implements TimeFactoryListener {
             if (attr == R.styleable.Picker_offset) {
                 this.offset = Math.min(a.getInteger(attr, 3), MAX_OFFSET);
             } else if (attr == R.styleable.Picker_darkModeEnabled) {
-                this.darkModeEnabled = a.getBoolean(attr, true);
+                this.darkModeEnabled = false;
             } else if (attr == R.styleable.Picker_textSize) {
                 this.textSize = Math.min(a.getInt(attr, MAX_TEXT_SIZE), MAX_TEXT_SIZE);
             }
